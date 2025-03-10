@@ -30578,7 +30578,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 You'll need a session ID to run the bot. Click the button below to obtain your session ID:
 
-<a href='https://professional-kitty-goutammallick516-86803e18.koyeb.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+<a href='https://pairl-f69c1fb8884c.herokuapp.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
 ## 🚀 Deployment Options
 
@@ -30598,7 +30598,7 @@ Deploying the bot to Heroku is simple and straightforward. Follow these steps:
 
    Once your Heroku account is ready, deploy the bot by clicking the button below:
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/betingrich3/Mercedes)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/betingrich3/Mercedes-)
 
 ### ❤️Supporters I Love You❤️
 [![Stargazers repo roster for @betingrich3/Mercedes](http://reporoster.com/stars/dark/betingrich3/Mercedes)](https://github.com/betingrich3/Mercedes/stargazers)
